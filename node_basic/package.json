@@ -4,7 +4,7 @@
   "description": "",
   "main": "createserver.js",
   "scripts": {
-    "dev": "nodemon createserver.js"
+    "dev": "nodemon express_module_code.js"
   },
   "author": "",
   "license": "ISC"
