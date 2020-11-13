@@ -1,0 +1,11 @@
+{
+  "name": "node_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createserver.js",
+  "scripts": {
+    "dev": "nodemon createserver.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
